@@ -11,6 +11,12 @@ html, body {
     background: linear-gradient(to bottom, #353535 0%, #0f0f0f 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    position: relative;
     scroll-behavior: smooth;
   }
   
+  @media (max-width: 600px) {
+    html {
+      padding: 16px;
+    }
+  }
