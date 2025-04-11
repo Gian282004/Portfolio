@@ -1,0 +1,9 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.footer-container span{
+    color: #b571d4;
+}
