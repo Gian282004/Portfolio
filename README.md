@@ -1,27 +1,36 @@
-# Portfolio
+# 🌐 Gian Luka Fernández - Web Developer Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
+Welcome to my personal portfolio! This project showcases who I am, what I do, and the projects I've built. It's designed and developed to reflect my passion for building efficient, clean, and user-friendly web experiences.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📌 About Me
 
-## Code scaffolding
+I’m a proactive person who enjoys solving problems and delivering the best solutions in the shortest possible time — while keeping code quality and user experience a top priority.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Tech enthusiast | Problem solver | Passionate about clean code.
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Tech Stack
 
-## Running unit tests
+- **Frontend:** HTML, CSS, TypeScript, Angular
+- **Backend (project-based):** Spring Boot (Java), Node.js
+- **Database:** MySQL
+- **Other tools:** Git, GitHub, Figma, VSCode
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## 🎨 Features
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Fully responsive design
+- Smooth scroll and transitions
+- Dynamic sections: Projects, About Me, Education
+- Reusable SVG icon components
+- Downloadable CV
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 📁 Folder Structure (simplified)
+
+
