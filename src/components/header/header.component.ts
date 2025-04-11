@@ -8,10 +8,5 @@ import { Component, HostListener } from '@angular/core';
   styleUrl: './header.component.css'
 })
 export class HeaderComponent {
-  scrolled = false;
 
-  @HostListener('window:scroll', [])
-  onWindowScroll(): void {
-    this.scrolled = window.scrollY > 10;
-  }
 }
