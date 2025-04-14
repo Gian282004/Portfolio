@@ -64,3 +64,23 @@ small{
     opacity: .7;
 }
 
+
+@media (max-width:600px)
+{
+
+    h3{
+        font-size: 30px;
+    }
+
+    .list-item{
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+
+    .list-item p{
+        width: 100%;
+        opacity: .8;
+      }
+      
+}
