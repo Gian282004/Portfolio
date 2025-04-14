@@ -17,7 +17,7 @@
     border-radius: 50%;
 }
 
-h2 {
+.about-me  h2 {
     margin-top: 18px;
     font-size: 3rem;
     opacity: .8;
@@ -25,13 +25,18 @@ h2 {
 
 }
 
-h4{
+.about-me{
+    display: flex;
+    flex-direction: column;
+}
+
+.about-me h4{
     margin-top: 10px;
     font-size:24px;
     color: #b571d4;
 }
 
-p{
+.about-me p{
    color:rgb(255, 255, 255);
    margin-top: 10px;
    max-width: 600px;
@@ -74,3 +79,26 @@ p{
     outline: none;
     border: none;
 }
+
+@media (max-width: 600px) {
+    .img-container {
+      width: 120px;
+      height: 120px;
+    }
+
+    .about-me h2 {
+        font-size: 35px;
+    }
+
+    .about-me h4{
+        font-size: 25px;
+    }
+    
+    .about-me p{
+        font-size: 18px;
+    }
+
+    .buttons-container{
+        font-size: 16px;
+    }
+  }
