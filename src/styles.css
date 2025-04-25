@@ -6,8 +6,9 @@
 
 html, body {
     margin: 0;
-    padding: 0;
+    padding-bottom: 1px;
     min-height: 100dvh;
+    min-height: 100vh;
     background: linear-gradient(to bottom, #353535 0%, #0f0f0f 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
