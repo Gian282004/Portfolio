@@ -7,12 +7,13 @@
 html, body {
     margin: 0;
     padding: 0;
-    min-height: 100vh;
+    min-height: 100dvh;
     background: linear-gradient(to bottom, #353535 0%, #0f0f0f 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
     position: relative;
     scroll-behavior: smooth;
+    overscroll-behavior:none;
   }
   
   @media (max-width: 600px) {
